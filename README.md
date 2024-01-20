@@ -10,7 +10,7 @@ I am a Software Development master student at "Alexandru Ioan Cuza" Univeristy i
 * ✉️  You can contact me at [narcisa.costache78@gmail.com](mailto:narcisa.costache78@gmail.com)
 * 🧠  I'm learning Java
 * 🤝  I'm open to collaborating on projects, interships
-* ⚡  Good language skills, speaking: english, spanish, italian, romanian at an advansed evel.
+* ⚡  Good language skills, speaking: english, spanish, italian, romanian at an advansed level.
 
 ### Skills
 
